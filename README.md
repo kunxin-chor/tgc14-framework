@@ -18,11 +18,11 @@ FLUSH PRIVILEGES;
 
 6. Install nodemon with `npm install -g nodemon`
 
-6. Add permission to run ./db-migrate.sh with `chmod +x ./db-migrate.sh
+7. Add permission to run ./db-migrate.sh with `chmod +x ./db-migrate.sh
 
-7. Install all node modules with `yarn install`
+8. Install all node modules with `yarn install`
 
-8. Run all migrations with `./db-migrate.sh up`
+9. Run all migrations with `./db-migrate.sh up`
 
 # Sample .env file
 ```

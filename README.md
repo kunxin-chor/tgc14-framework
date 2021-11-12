@@ -24,6 +24,11 @@ FLUSH PRIVILEGES;
 
 9. Run all migrations with `./db-migrate.sh up`
 
+10. LALALA
+
+11. FADDAD
+
+
 # Sample .env file
 ```
 CLOUDINARY_NAME=

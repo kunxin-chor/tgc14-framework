@@ -24,7 +24,10 @@ FLUSH PRIVILEGES;
 
 9. Run all migrations with `./db-migrate.sh up`
 
+
 10. Populate the database tables with categories and tags
+
+11. Test on localhost
 
 # Sample .env file
 ```
